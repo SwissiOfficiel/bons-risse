@@ -1,7 +1,7 @@
 {
   "name": "Bons de Travail - Risse SA",
   "short_name": "Risse Bons",
-  "description": "Application de gestion des bons de travail pour Risse SA",
+  "description": "Gestion des bons de travail",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#2f3463",
